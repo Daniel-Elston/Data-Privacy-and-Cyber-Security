@@ -23,3 +23,14 @@
 This report analyzes private data breaches to uncover the most significant cyber security threats to all sized companies. The report goes on to critically discuss what can be done to reduce such breaches, including steps companies can take to increase their cyber security, therefore reducing the frequency and severity of data breahces.
 
 A discussion of the GDPR including its failures and areas for improvement are also dicussed. Suggestions on how the GDPR can future proofed in order to keep up with an increasingly complex digital age are also noted. 
+
+## Contributing Members and Contacts
+**Team Lead: [Daniel Elston](https://github.com/Daniel-Elston)**
+
+|Name     |  GitHub Handles   |  
+|---------|-----------------|
+| Daniel Elston | [Git DE](https://github.com/Daniel-Elston)   |
+
+Please feel free to contact me if you have any questions, require any further information or wish to contribute.<br/>
+Email 1: delstonds@outlook.com<br/>
+Email 2: ec21024@qmul.ac.uk
