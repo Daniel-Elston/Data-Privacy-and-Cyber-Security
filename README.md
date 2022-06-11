@@ -1,7 +1,7 @@
 
 <p align="center">
   
-  ![ReadIm](https://user-images.githubusercontent.com/98388088/158096462-383949d5-f563-47d0-8118-5f06fe66498d.png)
+![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner3.png)
   
 </p>
 
